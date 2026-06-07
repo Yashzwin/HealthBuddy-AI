@@ -1,0 +1,16 @@
+HealthBuddy AI - Quick Start
+
+Best option: open the live website link from the project submission.
+
+Backup local option on Windows:
+1. Extract the ZIP first.
+2. Double-click RUN_HEALTHBUDDY_WINDOWS.vbs.
+3. If that does not work, double-click RUN_HEALTHBUDDY_WINDOWS.cmd.
+4. To stop the local server, run STOP_HEALTHBUDDY_WINDOWS.cmd.
+
+Admin prototype login:
+Email: yashversemusic@gmail.com
+Password: admin10$$
+
+Guest option:
+Click Continue as Guest on the login page.
